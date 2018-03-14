@@ -1,10 +1,16 @@
 # Code editor
 
-Code editors are powerful tools, so it is important that you use a good one and learn to use it effectively. You must install [Visual Studio Code](https://code.visualstudio.com/) and use it for at least a week. If you find that you prefer another editor, it must provide similar performance and features as VS Code.
+Code editors are powerful tools, so it is important that a good one is used, plus learn to use it effectively. 
+'Try doing this:
+'Install [Visual Studio Code](https://code.visualstudio.com/) and use it for at least a week.'
+    'If you find that you prefer another editor, it must provide similar performance and features as VS Code.'
 
 ## Performance
 
-Performance is important. Your editor should not hang when you open it. It should not hang when you open a project. It should be responsive when you are editing code and switching between tabs. If you have performance issues with VS Code you should ideally acquire a better computer. If your computer cannot run VS Code well, you should use [Sublime Text](https://www.sublimetext.com/).
+Performance is important. Your editor: 'should not hang when you open it.' 
+'It should not hang when you open a project.', 'It should be responsive while editing code and switching between tabs.'
+'If you have performance issues with VS Code, perhaps it's time to acquire a better computer.'
+'If your computer cannot run VS Code well, Try using... [Sublime Text](https://www.sublimetext.com/).'
 
 ## Features
 
